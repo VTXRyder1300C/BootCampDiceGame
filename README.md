@@ -12,3 +12,5 @@ CSS styles the page
 JS does the work:  
 JS will change the image based on the random number rolled.  
 JS will change the H1 to show the winner or a draw based on the numbers rolled.  
+
+GitHub learning: add 2 spaces to make a new line in the read me  
